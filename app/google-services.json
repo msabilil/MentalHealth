@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418804718476",
+    "project_id": "mental-health-5d64a",
+    "storage_bucket": "mental-health-5d64a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418804718476:android:21e91ea741498415bed4a9",
+        "android_client_info": {
+          "package_name": "com.project.mentalhealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAd1MxO723b-frgrhd1ZTbjHaHim64BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
